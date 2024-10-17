@@ -4,4 +4,11 @@ aaa
 
 bbb
 
+<<<<<<< HEAD
 ttt
+=======
+
+
+
+xxx
+>>>>>>> teama
